@@ -11,6 +11,6 @@ Natural_Language_Preprocessing_(Gutenberg): An in-depth look at how machines int
     2. Number 67: A 2-dimensional visual representation of the 64-dimensional word-vector space, in which words were grouped together 
         by the model based on similarity.
 
-Multi_ConvNet_Sentiment_Classifier_(Movie_Reviews): This model builds on the Natural language processing one and not only learns to interpret human language, but also classify IMDB movie reviews as positive or negative. This is an advanced model, so it performed really well compared to other models. It received a "Receiver operating characteristic score" of 96.15/100, proving its great accuracy understanding human language.
+Multi_ConvNet_Sentiment_Classifier_(Movie_Reviews): This model builds on the Natural language processing one, and it not only learns to interpret human language, but also to classify IMDB movie reviews as positive or negative. This is an advanced model, so it performed really well compared to other programs. It received a "Receiver operating characteristic score" of 96.15/100, proving its great accuracy understanding human language.
 
 Contact me at alex@jaimes.net for questions.
