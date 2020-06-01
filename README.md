@@ -1,5 +1,5 @@
 # Artificial-Neural-Networks
-Small showcase of my progress. Based on the book: Deep Learning Illustrated (https://www.deeplearningillustrated.com/). Some scripts  contain notes from the book and myself from when I was first writing them. A basic breakdown for each one of them:
+Small showcase of my progress in regards to AI and Artificial Neural Networks. Based on the book: Deep Learning Illustrated (https://www.deeplearningillustrated.com/). Some scripts  contain notes from the book and myself from when I was first writing them. A basic breakdown for each one of them:
 
 Shallow_Net_Keras: A simple program which learns to recognize handwritten digits and classify them. It reached 86% accuracy. I later built a more complex model which reached almost 98% accuracy. 
 
